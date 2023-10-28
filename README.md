@@ -1,7 +1,7 @@
 # Vocabulary evaluation of LLMs
 
 
-This repository contains the results for the different vocabulary tests run on LLM tools/models presented in the paper: **"The continued usefulness of vocabulary tests for evaluating large language models"** currently published a prerpint in arXiv: https://arxiv.org/abs/2310.14703
+This repository contains the results for the different vocabulary tests run on LLM tools/models presented in the paper: **"The continued usefulness of vocabulary tests for evaluating large language models"** currently published a preprint in arXiv: https://arxiv.org/abs/2310.14703
 
 
 The name of the files correspond to the vocabulary tests for which results are presented in Tables 3-6 in the paper (note that questions for the TOEFL test are not public).  
