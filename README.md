@@ -23,10 +23,19 @@ The models evaluated are:
 To cite our work:
 
 ```
-@article{martinez2023continued,
-  title={The continued usefulness of vocabulary tests for evaluating large language models},
-  author={Mart{\'\i}nez, Gonzalo and Conde, Javier and Merino-G{\'o}mez, Elena and Berm{\'u}dez-Margaretto, Beatriz and Hern{\'a}ndez, Jos{\'e} Alberto and Reviriego, Pedro and Brysbaert, Marc},
-  journal={arXiv preprint arXiv:2310.14703},
-  year={2023}
+@article{10.1371/journal.pone.0308259,
+    doi = {10.1371/journal.pone.0308259},
+    author = {Martínez, Gonzalo AND Conde, Javier AND Merino-Gómez, Elena AND Bermúdez-Margaretto, Beatriz AND Hernández, José Alberto AND Reviriego, Pedro AND Brysbaert, Marc},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Establishing vocabulary tests as a benchmark for evaluating large language models},
+    year = {2024},
+    month = {12},
+    volume = {19},
+    url = {https://doi.org/10.1371/journal.pone.0308259},
+    pages = {1-17},
+    number = {12},
+
 }
+
 ```
